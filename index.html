@@ -8,21 +8,21 @@
   <body>
     <section role="main">
       <h1>Pure CSS x-browser checkbox</h1>
-<input class="styled-checkbox" id="styled-checkbox-1" type="checkbox" value="value1">
-<label for="styled-checkbox-1">Checkbox</label>
+<input id="js-selectall-1" class="js-selectall" type="checkbox" value="value1">
+<label for="js-selectall-1"></label>
     </section>
 <style>
- .styled-checkbox {
+ .js-selectall {
   position: absolute;
   border: solid 1px #888;
   opacity: 0;
 }
-.styled-checkbox + label {
+.js-selectall + label {
   position: relative;
   cursor: pointer;
   padding: 0;
 }
-.styled-checkbox + label:before {
+.js-selectall + label:before {
   content: "";
   margin-right: 10px;
   display: inline-block;
@@ -31,24 +31,24 @@
   height: 20px;
   background: white;
 }
-.styled-checkbox:hover + label:before {
+.js-selectall:hover + label:before {
   background: #30619a;
 }
-.styled-checkbox:focus + label:before {
+.js-selectall:focus + label:before {
   box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.12);
 }
-.styled-checkbox:checked + label:before {
+.js-selectall:checked + label:before {
   background: #30619a;
 }
-.styled-checkbox:disabled + label {
+.js-selectall:disabled + label {
   color: #b8b8b8;
   cursor: auto;
 }
-.styled-checkbox:disabled + label:before {
+.js-selectall:disabled + label:before {
   box-shadow: none;
   background: #ddd;
 }
-.styled-checkbox:checked + label:after {
+.js-selectall:checked + label:after {
   content: "";
   position: absolute;
   left: 5px;
