@@ -2,7 +2,7 @@
 
 Pure CSS checkbox that can be color branded. Tested on mobile, tablet, laptop, and desktop.
 
-'''CSS
+```css
 /* Checkbox styles Begin */
 .prod-sec__fbt .js-selectall {
     position: absolute;
@@ -45,4 +45,4 @@ Pure CSS checkbox that can be color branded. Tested on mobile, tablet, laptop, a
     transform: rotate(45deg);
   }
 /* Checkbox styles End */
-'''
+```
