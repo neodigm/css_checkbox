@@ -2,6 +2,12 @@
 
 Pure CSS checkbox that can be color branded. Tested on mobile, tablet, laptop, and desktop.
 
+<p>
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="176" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="176" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="176" alt="Vivid Vector Skulduggery">
+</p>
+
 ```css
 /* Checkbox styles Begin */
 .prod-sec__fbt .js-selectall {
