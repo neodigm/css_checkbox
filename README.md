@@ -9,14 +9,14 @@ Pure CSS checkbox that can be color branded. Tested on mobile, tablet, laptop, a
 </p>
 
 <p>
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="124" alt="Life-changing Gorgeous">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg" width="124" alt="Suddenly Seriously Dazzling">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="124" alt="Effortless Unexpected">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="124" alt="Undeniable Unforgettable">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvk.svg" width="124" alt="Frenzy Truly Lucrative">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="124" alt="Divulge Definitive Ironclad Brilliant">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="124" alt="Join Help Discover Create Come along">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvx.svg" width="124" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Life-changing Gorgeous">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg" width="96" alt="Suddenly Seriously Dazzling">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="96" alt="Effortless Unexpected">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Undeniable Unforgettable">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvk.svg" width="96" alt="Frenzy Truly Lucrative">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="96" alt="Divulge Definitive Ironclad Brilliant">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="96" alt="Join Help Discover Create Come along">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvx.svg" width="96" alt="Vivid Vector Skulduggery">
 </p>
 
 ```css
