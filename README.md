@@ -1,11 +1,11 @@
 [Pure CSS HTML Checkbox](https://neodigm.github.io/css_checkbox/)
 
-Pure CSS checkbox that can be color branded. Tested on mobile, tablet, laptop, and desktop.
+Pure CSS color branded checkbox. Tested on mobile, tablet, laptop, and desktop.
 
 <p>
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="124" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="124" alt="Crave Breathtaking">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="124" alt="Delirious Stunning">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="96" alt="Crave Breathtaking">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="96" alt="Delirious Stunning">
 </p>
 
 <p>
