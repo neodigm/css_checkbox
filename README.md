@@ -60,4 +60,4 @@ Pure CSS color branded checkbox. Tested on mobile, tablet, laptop, and desktop. 
   }
 /* Checkbox styles End */
 ```
-🦄 AWS Amplify && GraphQL && TypeScript && Go  🍰
+
