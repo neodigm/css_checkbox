@@ -1,6 +1,6 @@
 [Pure CSS HTML Checkbox](https://neodigm.github.io/css_checkbox/)
 
-Pure CSS color branded checkbox. Tested on mobile, tablet, laptop, and desktop. [Tested](https://neodigm.github.io/end_to_end_testing/) on all evergreen user agents.
+Pure CSS color branded checkbox. Tested on [mobile, tablet, laptop, and desktop](https://thescottkrause.com/categories/ux/). [Tested](https://neodigm.github.io/end_to_end_testing/) on all evergreen user agents.
 
 <p>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Vivid Vector Skulduggery">
