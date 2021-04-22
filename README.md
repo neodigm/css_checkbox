@@ -20,7 +20,7 @@ Pure CSS color branded checkbox. Tested on [mobile, tablet, laptop, and desktop]
 </p>
 
 ```css
-/* Checkbox styles Begin */
+/* Checkbox styles Begins */
 .prod-sec__fbt .js-selectall {
     position: absolute;
     border: solid 1px #444;
