@@ -10,10 +10,10 @@ Pure CSS color branded checkbox. Tested on [mobile, tablet, laptop, and desktop]
 
 <p>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Life-changing Gorgeous Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg" width="96" alt="Suddenly Seriously Dazzling 🌑🌒🌓🌔🌕🌖🌗🌘🌑">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg" width="96" alt="Suddenly Seriously Dazzling">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="96" alt="Effortless Unexpected UX artisan ⚡ illustrator ⚡ front-end engineer">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Undeniable Unforgettable">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvk.svg" width="96" alt="Frenzy Truly Lucrative">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvk.svg" width="96" alt="Frenzy Truly Lucrative 🌑🌒🌓🌔🌕🌖🌗🌘🌑">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="96" alt="Divulge Definitive Ironclad Brilliant">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="96" alt="Join Help Discover Create Come along Three.js 🚀 TypeScript 🚀 WASM ✨ Go">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvx.svg" width="96" alt="Vivid Vector Skulduggery 🌑🌒🌓🌔🌕🌖🌗🌘🌑 ">
