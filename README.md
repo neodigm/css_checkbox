@@ -61,3 +61,8 @@ Pure CSS color branded checkbox. Tested on [mobile, tablet, laptop, and desktop]
 /* Checkbox styles End */
 ```
 
+<p align="center">
+	<a target="_blank" href="https://www.thescottkrause.com">
+		<img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="Three.js 🚀 TypeScript 🍭 WASM ✨ Go">
+	</a>
+</p>
