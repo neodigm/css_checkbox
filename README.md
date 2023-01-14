@@ -86,13 +86,8 @@ Pure CSS color branded checkbox. Tested on [mobile, tablet, laptop, and desktop]
 
 <p align="center">
   <a target="_blank" href="https://www.thescottkrause.com">
-    <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="UX PWA TypeScript ⚡ WASM ✨ Vue.js 🍭 ThreeJS">
-  </a>
-</p>
-
-<p align="center">
-  <a target="_blank" href="https://www.thescottkrause.com">
-    <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="Infographics UX PWA Typescript Svelte ThreeJS Vue ✨">
+    <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="Infographics UX PWA Typescript Svelte ThreeJS Vue ✨"
+    alt="title="UX PWA TypeScript ⚡ WASM ✨ Vue.js 🍭 ThreeJS">
   </a>
 </p>
 
