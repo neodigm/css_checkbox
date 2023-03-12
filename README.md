@@ -59,6 +59,7 @@ Pure CSS color branded checkbox. Tested on [mobile, tablet, laptop, and desktop]
     transform: rotate(45deg);
   }
 /* Checkbox styles End */
+```
 
 ---
 #
