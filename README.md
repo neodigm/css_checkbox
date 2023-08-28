@@ -10,7 +10,7 @@ Pure CSS color branded checkbox. Tested on [mobile, tablet, laptop, and desktop]
 
 <p>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Life-changing Gorgeous Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg" width="96" alt="Suddenly Seriously Dazzling">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg" width="96" alt="Suddenly Seriously Dazzling Shopify PWA Polaris Liquid GraphQL 🍭">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="96" alt="Effortless Unexpected UX artisan ⚡ illustrator ⚡ front-end engineer">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Undeniable Unforgettable">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvk.svg" width="96" alt="Frenzy Truly Lucrative 🌑🌒🌓🌔🌕🌖🌗🌘🌑">
@@ -64,9 +64,10 @@ Pure CSS color branded checkbox. Tested on [mobile, tablet, laptop, and desktop]
 ---
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
-[🦄 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2023.pdf) |
+[🌶️ Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2023.pdf) |
 [UX micro-library](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/) |
 [PWA WASM](https://www.thescottkrause.com/emerging_tech/curated-pwa-links/) |
+[DevToys](https://www.thescottkrause.com/devtoys/) |
 [Neodigm UX Wiki](https://github.com/arcanus55/neodigm55/wiki/Cheat-Sheet) | 
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
@@ -88,6 +89,7 @@ Pure CSS color branded checkbox. Tested on [mobile, tablet, laptop, and desktop]
 
 <p align="center">
   <a target="_blank" href="https://www.thescottkrause.com">
-    <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="UX PWA TypeScript ⚡ WASM ✨ Vue.js 🍭 ThreeJS" alt="Interactive Infographic">
+    <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="UX PWA TypeScript ⚡ WASM ✨ Vue.js 🍭 ThreeJS 🌶️ HTMLX" alt="Interactive Infographic">
   </a>
 </p>
+
