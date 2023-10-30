@@ -3,13 +3,13 @@
 Pure CSS color branded checkbox. Tested on [mobile, tablet, laptop, and desktop](https://www.thescottkrause.com/devtoys/view_responsive/). [Tested](https://neodigm.github.io/end_to_end_testing/) on all evergreen user agents.
 
 <p>
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Vivid Vector Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Vivid Vector Interactive Infographic ⚡ WASM ✨ PWA 🍭 Svelte">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="96" alt="Crave Breathtaking Infographics UX PWA Typescript Svelte ThreeJS Vue ✨htmlx">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="96" alt="Delirious Stunning">
 </p>
 
 <p>
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Life-changing Gorgeous Skulduggery">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Life-changing Gorgeous Skulduggery Interactive Infographic ⚡ WASM ✨ PWA 🍭 Svelte">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg" width="96" alt="Suddenly Seriously Dazzling Shopify PWA Polaris Liquid GraphQL 🍭">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="96" alt="Effortless Unexpected UX artisan ⚡ illustrator ⚡ front-end engineer">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Undeniable Unforgettable">
@@ -67,7 +67,7 @@ Pure CSS color branded checkbox. Tested on [mobile, tablet, laptop, and desktop]
 [🌶️ Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2023.pdf) |
 [UX micro-library](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/) |
 [PWA WASM](https://www.thescottkrause.com/emerging_tech/curated-pwa-links/) |
-[DevToys](https://www.thescottkrause.com/devtoys/) |
+[Web Tool Toys](https://www.webtooltoys.com/) |
 [Neodigm UX Wiki](https://github.com/arcanus55/neodigm55/wiki/Cheat-Sheet) | 
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
@@ -92,4 +92,3 @@ Pure CSS color branded checkbox. Tested on [mobile, tablet, laptop, and desktop]
     <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="UX PWA TypeScript ⚡ WASM ✨ Vue.js 🍭 ThreeJS 🌶️ HTMLX" alt="Interactive Infographic">
   </a>
 </p>
-
