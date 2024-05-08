@@ -12,7 +12,7 @@ Pure CSS color branded checkbox. Tested on [mobile, tablet, laptop, and desktop]
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Life-changing Gorgeous Skulduggery Interactive Infographic ⚡ WASM ✨ PWA 🍭 Svelte">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvh.svg" width="96" alt="Suddenly Seriously Dazzling Shopify PWA Polaris Liquid GraphQL 🍭">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="96" alt="Effortless Unexpected UX artisan ⚡ illustrator ⚡ front-end engineer">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Undeniable Unforgettable">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Undeniable Shopify PWA Polaris Liquid GraphQL 🍭">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvk.svg" width="96" alt="Frenzy Truly Lucrative 🌑🌒🌓🌔🌕🌖🌗🌘🌑">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="96" alt="Divulge Definitive Ironclad Brilliant">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvo.svg" width="96" alt="Join Help Discover Create Come along Three.js 🚀 TypeScript 🚀 WASM ✨ Go">
