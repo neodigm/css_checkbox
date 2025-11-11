@@ -5,7 +5,7 @@ Pure CSS color branded checkbox. Tested on [mobile, tablet, laptop, and desktop]
 <p>
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvc.svg" width="96" alt="Vivid Vector Interactive Infographic ⚡ WASM ✨ PWA 🍭 Svelte">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="96" alt="Crave Breathtaking Infographics UX PWA Typescript Svelte ThreeJS Vue ✨htmlx">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="96" alt="Delirious Stunning">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvs.svg" width="96" alt="Delirious Stunning MCP AI Agents Chat UX PWA 3D Lit ThreeJS Vue ✨HTMX Rust WASM">
 </p>
 
 <p>
