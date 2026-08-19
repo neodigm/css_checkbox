@@ -153,7 +153,7 @@ class UnityCheckbox extends HTMLElement {
           break;
           case "theme":
               const classNameBG = {
-                  "abbvie_blue": "fst-un__core-bg--blue",  //  brand
+                  "abbvie_blue": "fst-un__core-bg--blue",  //  DataVis 👁️ UX 🍭 PWA 👁️ ThreeJS ✨ RUST WASM  🚀 SSE 🌶️ htmx
                   "abbvie_purposeful": "fst-un__core-bg--purple",  //  primary
                   "abbvie_curious": "fst-un__core-bg--cobalt",  //  secondary
                   "abbvie_remarkable": "fst-un__core-bg--red",  //  danger
